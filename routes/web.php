@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('wx/token','TestController@getWxToken');
+Route::any('test1','TestController@test');
+Route::any('test2','TestController@test2');
+
+
+Route::any('user/info','TestController@UserInfo');
+Route::any('test2','TestController@test2');
