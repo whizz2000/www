@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello World
+                    Z 131 API
                 </div>
 
                 <div class="links">
